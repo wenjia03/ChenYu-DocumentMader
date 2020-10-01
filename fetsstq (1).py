@@ -11,7 +11,7 @@ jieshi = []
 #<<Nezha>> & <<JiangZiya>>,The Power of Chinese Animated film.
 #For memory of <<Nezha>> with Nezha and AoBing , <<JiangZiya>> with JiangZiya,ShenGongbao,XiaoJiu and SiBuxiang
 #Designed By Wenjiachen, Github@Wenjia03
-key = '847255f34a0a4914bd887b488e6ad1b5'
+key = 'APPKEY'#修改成你的APPKEY
 def waitwrite():
     listlen = len(listn)
     j = 0
